@@ -1,0 +1,2 @@
+# chatgpt_python_prac
+PythonからChatGPTを使ってみる
